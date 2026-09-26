@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Phú 👋
 
-<!--
-**phunguyen25-oss/phunguyen25-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering student at Ho Chi Minh City University of Technology (HCMUT), member of Key Project.
+I work on robotics: control systems, state estimation and computer vision.
 
-Here are some ideas to get you started:
+## What I work on
+- **Drone flight control** – quadcopter modeling, LQR & cascade PID, 12-state Extended Kalman Filter (MATLAB/Simulink)
+- **Self-balancing robot** – two-wheeled balancing robot on STM32, LQR/LQG control
+- **Computer vision** – robotic arm that follows my hand movements using a hand-tracking library
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+- **Languages:** C++ · C (STM32) · Python · MATLAB
+- **Robotics:** ROS2 · Simulink
+- **Computer vision:** OpenCV · [tên thư viện hand-tracking, ví dụ MediaPipe]
+
+## Contact
+LinkedIn:www.linkedin.com/in/phu-nguyen-997601379
